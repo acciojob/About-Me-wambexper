@@ -1,1 +1,66 @@
+.first-block{
 
+    margin: 35px;
+    /* border: 5px solid yellowgreen;  */
+}
+.user-image{
+    margin: 35px;
+    /* border: 2px solid red; */
+
+}
+.user-section{
+ /* border: 2px solid blue; */
+
+}
+.details-user{
+ margin: 30px;
+ /* border: 2px solid red; */
+}
+
+.progress{
+    height:10px;
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.value1,.value2,.value3,.value4{
+    background-color: dodgerblue;
+    height: 100%;
+    border-radius: 5px;
+
+}
+.value1{
+    width: 95%;
+}
+.value2{
+    width: 90%;
+}
+.value3{
+    width: 99%;
+}
+.value4{
+    width: 93%;
+}
+.about-me{
+    width: 50%;
+    margin:35px;
+}
+.skill-image{
+    margin-top: 15px;
+}
+
+.skill-image>img{
+    width: 15px;
+    height: auto;
+}
+.indicator{
+    font-size: 15px;
+    color: gray;
+    font-weight: 800;
+    float: right;
+}
+
+.about-me>h1{
+    border-bottom: 3px solid dodgerblue;
+    border-width: 50%;
+}
